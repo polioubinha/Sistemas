@@ -170,7 +170,7 @@ public class MainActivity extends AppCompatActivity {
         // Lógica para mostrar información adicional
         String additionalInfo = "No soy perezoso, estoy en modo ahorro de energía.";
 
-        // Muestra la información en un Toast (puedes cambiar esto según tus necesidades)
+        // Muestra la información en un Toast
         Toast.makeText(this, additionalInfo, Toast.LENGTH_SHORT).show();
     }
 }
